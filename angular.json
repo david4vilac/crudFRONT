@@ -116,8 +116,8 @@
           }
         }
       }
-    }},
-  "defaultProject": "crudFRONT",
+    }
+  },
   "cli": {
     "analytics": "8d1fa689-d995-4a5a-95a1-cdac00759d97"
   }
